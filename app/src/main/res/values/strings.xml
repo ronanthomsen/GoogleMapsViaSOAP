@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Maps</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtSenha">Senha</string>
+    <string name="txtAppErroLogin">Coloque o Login</string>
+    <string name="txtAppErroSenha">Coloque a Senha</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
